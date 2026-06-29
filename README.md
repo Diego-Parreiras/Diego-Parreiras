@@ -54,12 +54,21 @@ Sou um Desenvolvedor de Software focado no ecossistema Full Stack, unindo a enge
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 💻 Foco e Status Atual
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diego-Parreiras&show_icons=true&theme=dracula&include_all_commits=true&v=1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Parreiras&layout=compact&theme=dracula&v=1" width="48%" />
-</div>
+```json
+{
+  "perfil": "Desenvolvedor de Software",
+  "base_academica": "Análise e Desenv. de Sistemas (PUC Minas)",
+  "stack_em_desenvolvimento": {
+    "backend": ["C#", "ASP.NET", "Java", "Spring Boot"],
+    "banco_de_dados": ["SQL Server", "MySQL", "PostgreSQL"],
+    "design_interfaces": ["Figma", "Wireframes Interativos"]
+  },
+  "soft_skills": ["Inteligência Emocional", "Comunicação Clara", "Organização"],
+  "status_atual": "Codando, estruturando dados e evoluindo todos os dias."
+}
+```
 
 ---
 
